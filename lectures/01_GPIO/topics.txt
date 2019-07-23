@@ -1,0 +1,15 @@
+GPIO -general purpose io. Why general? 
+Voltage level of logical 0/1. Load?
+Types of output: push-pull, open drain, weak.
+Intputs, trigger Schmid, pull up/down resistors.
+Diodes
+Registers
+
+Our mcu is not alone. We have to communicate with others
+mcu/ics/etc. Do indication of work state by ligh or by sound.
+Turn on/off relay or check a button or keyboard.
+
+
+
+
+
