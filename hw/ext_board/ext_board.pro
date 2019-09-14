@@ -1,4 +1,4 @@
-update=Sat 06 Jul 2019 08:30:51 PM +03
+update=Sat 14 Sep 2019 01:43:15 PM +03
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=ext_board
+LibName34=/home/yauheni/Documents/arduino-kicad-library/arduino
+LibName35=/home/yauheni/Documents/arduino_uno_r3_from_scratch/Arduino_Uno_R3_From_Scratch
